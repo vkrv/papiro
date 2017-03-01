@@ -1,0 +1,7 @@
+{
+	"name": "Papiro",
+	"platforms": ["web"],
+	"apps": {"index": "index", "web": "web"},
+	"minify": true,
+	"web-prefix": true
+}
